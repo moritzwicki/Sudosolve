@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1015471-5d2d-4c50-b64d-6cf112cb9431" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UpbmPYuKLLrkcRoBS0v1znOIFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="deletionFromPopupRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="learntkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstgui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/firstgui.py" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firstgui" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="learntkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstgui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/firstgui.py" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1015471-5d2d-4c50-b64d-6cf112cb9431" name="Default Changelist" comment="" />
+      <created>1576056641865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576056641865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2104" y="201" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576058516036">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2104" y="201" width="1071" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576058516036" />
+    <state x="2104" y="201" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1576057790822" />
+    <state width="1899" height="346" key="GridCell.Tab.0.bottom" timestamp="1576070960123">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960123" />
+    <state width="1899" height="346" key="GridCell.Tab.0.center" timestamp="1576070960122">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960122" />
+    <state width="1899" height="346" key="GridCell.Tab.0.left" timestamp="1576070960121">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960121" />
+    <state width="1899" height="346" key="GridCell.Tab.0.right" timestamp="1576070960123">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960123" />
+    <state width="1899" height="346" key="GridCell.Tab.1.bottom" timestamp="1576070960126">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960126" />
+    <state width="1899" height="346" key="GridCell.Tab.1.center" timestamp="1576070960125">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960125" />
+    <state width="1899" height="346" key="GridCell.Tab.1.left" timestamp="1576070960124">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960124" />
+    <state width="1899" height="346" key="GridCell.Tab.1.right" timestamp="1576070960125">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576070960125" />
+    <state x="2175" y="251" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1576059266536">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2175" y="251" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576059266536" />
+    <state x="2304" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1576056662140">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2304" y="371" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576056662140" />
+    <state x="2370" y="378" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576056717492">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2370" y="378" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576056717492" />
+  </component>
+</project>
