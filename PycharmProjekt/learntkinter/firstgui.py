@@ -8,7 +8,7 @@ win.geometry('1100x700')
 win.title("First Gui")
 
 def getsudoview():
-    tkMessageBox.showinfo("Hello World", "Hallo Moritz die musst mal schwitzen")
+    tkMessageBox.showinfo("Hello World", "Hello world")
     getsudoview()
 
 tk.Label(win, text="Herzlich Willkommen bei SudoSolve", font=("Arial Bold", 50)).pack()
