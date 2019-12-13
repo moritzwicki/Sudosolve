@@ -1,74 +1,26 @@
-import Tkinter as tk
+import array
+
+import tkinter as tk
 import tkMessageBox
-from Tkinter import IntVar
+from Tkinter import IntVar, Entry
+
+
 
 
 def drawGrid():
     root = tk.Tk()
-    root.title("Easy Sudoku")
-    b = tk.Button(root, text="Correct")
-    b.grid(row=10, column=10)
-
-    number_row = 0
-    number_col_1 = 1
-    number_col_2 = 1
-    number_col_3 = 1
-    number_col_4 = 1
-    number_col_5 = 1
-    number_col_6 = 1
-    number_col_7 = 1
-    number_col_8 = 1
-    number_col_9 = 1
-    while number_row <= 8:
-        row_1 = tk.Entry(root, width=2)
-        row_1.grid(row=number_row, column=0)
-        number_row += 1
-    while number_col_1 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=0, column=number_col_1)
-        number_col_1 += 1
-
-    while number_col_2 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=1, column=number_col_2)
-        number_col_2 += 1
-
-    while number_col_3 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=2, column=number_col_3)
-        number_col_3 += 1
-
-    while number_col_4 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=3, column=number_col_4)
-        number_col_4 += 1
-
-    while number_col_5 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=4, column=number_col_5)
-        number_col_5 += 1
-
-    while number_col_6 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=5, column=number_col_6)
-        number_col_6 += 1
-
-    while number_col_7 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=6, column=number_col_7)
-        number_col_7 += 1
-
-    while number_col_8 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=7, column=number_col_8)
-        number_col_8 += 1
-
-    while number_col_9 <= 8:
-        col_1 = tk.Entry(root, width=2)
-        col_1.grid(row=8, column=number_col_9)
-        number_col_9 += 1
-
-
+    entries = {}
+    tableheight = 9
+    tablewidth = 9
+    counter = 0
+    for row in xrange(tableheight):
+        for column in xrange(tablewidth):
+            entries[counter] = tk.Entry(root, width=2)
+            entries[counter].grid(row=row, column=column)
+            counter += 1
+    print entries
+    entries[11].insert(0,"2")
+    entries[11].insert(0,"3")
 win = tk.Tk()
 win.geometry('1100x700')
 win.title("First Gui")
@@ -79,5 +31,14 @@ tk.Button(win, text="leicht", command=lambda: drawGrid()).pack()
 tk.Button(win, text="Mittel").pack()
 tk.Button(win, text="Schwierig").pack()
 tk.Button(win, text="Extrem").pack()
+
+
+
+
+#def EntryOutput(rootIdentyfier, windowIdentifier, outputValue):
+   # return rootIdentyfier.StringVar(windowIdentifier, value=outputValue)
+
+
+#test = Entry(win, textvariable=EntryOutput(tk, win, "Work mf work")).pack()
 
 win.mainloop()
