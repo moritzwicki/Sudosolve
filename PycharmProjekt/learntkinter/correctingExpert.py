@@ -1,5 +1,5 @@
 from Tkconstants import END
-
+from tkinter import messagebox
 board = ['1', '8', '5', '7', '3', '6', '4', '9', '2',
          '9', '6', '2', '4', '5', '1', '3', '8', '7',
          '3', '7', '4', '9', '8', '2', '5', '1', '6',
@@ -23,3 +23,6 @@ def getEingabenExpert(entries):
         elif correcting != board[i]:
             countFaults += 1
             entries[i].delete(0, END)
+
+    if countCorrect == 81:
+        messagebox.showinfo("Gewonnen", "Du hast das Sudoku geschafft!")

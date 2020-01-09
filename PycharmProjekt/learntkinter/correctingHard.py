@@ -1,5 +1,5 @@
 from Tkconstants import END
-
+from tkinter import messagebox
 board = ['4', '9', '6', '1', '5', '7', '8', '3', '2',
          '2', '1', '8', '3', '9', '6', '7', '4', '5',
          '7', '5', '3', '2', '8', '4', '1', '9', '6',
@@ -23,3 +23,6 @@ def getEingabenHard(entries):
         elif correcting != board[i]:
             countFaults += 1
             entries[i].delete(0, END)
+
+    if countCorrect == 81:
+        messagebox.showinfo("Gewonnen", "Du hast das Sudoku geschafft!")

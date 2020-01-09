@@ -1,8 +1,5 @@
 from Tkconstants import END
-from aetypes import end
-
-import tkinter as tk
-from numpy import delete
+from tkinter import messagebox
 
 board = ['9', '2', '6', '4', '3', '5', '7', '8', '1',
          '8', '5', '1', '2', '7', '6', '4', '3', '9',
@@ -27,3 +24,6 @@ def getEingabenMiddle(entries):
         elif correcting != board[i]:
             countFaults += 1
             entries[i].delete(0, END)
+
+    if countCorrect == 81:
+        messagebox.showinfo("Gewonnen", "Du hast das Sudoku geschafft!")
