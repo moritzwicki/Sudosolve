@@ -6,6 +6,7 @@ def sudosolve(entries, root):
     init = 0
     for init in range(len(entries)):
         if entries[init] != "1" or "2" or "3" or "4" or "5" or "6" or "7" or "8" or "9":
+            entries[init].delete(0, END)
             entries[init].insert(0, "0")
     grid = [[int(entries[0].get()), int(entries[1].get()), int(entries[2].get()), int(entries[3].get()),
              int(entries[4].get()), int(entries[5].get()), int(entries[6].get()), int(entries[7].get()),

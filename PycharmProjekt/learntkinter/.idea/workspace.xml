@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1015471-5d2d-4c50-b64d-6cf112cb9431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sudohintergrund.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sudokuhintergrund.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learntkinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learntkinter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SudokuSolveGrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/SudokuSolveGrid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SudokuSolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/SudokuSolver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correctingEasy.py" beforeDir="false" afterPath="$PROJECT_DIR$/correctingEasy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correctingExpert.py" beforeDir="false" afterPath="$PROJECT_DIR$/correctingExpert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correctingHard.py" beforeDir="false" afterPath="$PROJECT_DIR$/correctingHard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correctingMiddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/correctingMiddle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstgui.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstgui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,9 +195,10 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2175" y="251" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576059266536" />
-    <state x="2304" y="386" key="com.intellij.ide.util.TipDialog" timestamp="1578573414963">
-      <screen x="1680" y="23" width="1920" height="1057" />
+    <state x="624" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1578731337107">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="624" y="356" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578731337107" />
     <state x="2304" y="371" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1576056662140" />
     <state x="2304" y="386" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578573414963" />
     <state x="2428" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578573193114">
